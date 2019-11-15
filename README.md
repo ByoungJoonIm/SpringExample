@@ -19,6 +19,9 @@
   - 프로젝트 익스프롤러의 우상단 톱니바퀴 클릭 -> Flatten Packages 체크, compact middle packages 체크 해제
 - Intellij에서 "기본 클래스 ...을 찾을 수 없습니다" 에러가 나는 경우
   - build - rebuild project로 빌드를 다시 한 후(빌드가 완료될때까지 소스 파일을 수정하지 말 것) 실행
+- git repository를 프로젝트로 등록할 때 git.exe가 없다고 나오는 경우
+  - file - settings - Version Control - Git - Path to Git executable을 다음으로 변경
+    - sourcetree의 경우 : C:\Users\[YOUR USER NAME]\AppData\Local\Atlassian\SourceTree\git_local\bin\git.exe
 
 ### Good Lecture
 - [[인프런]스프링 입문편](https://www.inflearn.com/course/spring/dashboard)
