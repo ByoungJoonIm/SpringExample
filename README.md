@@ -22,4 +22,5 @@
 
 ### Good Lecture
 - [[인프런]스프링 입문편](https://www.inflearn.com/course/spring/dashboard)
-- [[인프런]스프링 입문편 개정판](https://www.inflearn.com/course/spring_revised_edition#)
+- [[인프런]스프링 입문편 개정판](https://www.inflearn.com/course/spring_revised_edition#)  
+   - [[참고] 소스코드](https://github.com/spring-projects/spring-petclinic)
