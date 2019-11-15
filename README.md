@@ -17,6 +17,8 @@
   - C://로 압축파일을 옮긴 뒤 더블클릭 -> 우클릭, 현재 폴더에 압축 풀기 클릭
 - Intellij에서 프로젝트의 패키지들이 한줄로 표시되는 경우
   - 프로젝트 익스프롤러의 우상단 톱니바퀴 클릭 -> Flatten Packages 체크, compact middle packages 체크 해제
+- Intellij에서 "기본 클래스 ...을 찾을 수 없습니다" 에러가 나는 경우
+  - build - rebuild project로 빌드를 다시 한 후(빌드가 완료될때까지 소스 파일을 수정하지 말 것) 실행
 
 ### Good Lecture
 - [[인프런]스프링 입문편](https://www.inflearn.com/course/spring/dashboard)
